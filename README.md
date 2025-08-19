@@ -9,4 +9,5 @@ During this school year, I want to accel in my classes and make sure to attend a
 
 [This is my playlist](https://open.spotify.com/playlist/3sqQRyI1ovAH1dJ0FqozIC)
 
+This is my mood board/collage!
 ![This is my mood board/collage](image.png)
