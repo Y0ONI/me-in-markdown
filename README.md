@@ -6,6 +6,6 @@ During the summer, I went to Korea. It was amazing, and I was able to see a diff
 During this school year, I want to accel in my classes and make sure to attend a good GPA. I want to not procrastinate and try to learn more about subjects I struggle with. Especially in Computer Science, I hope to learn more and do my best in order for the AP test. I also want to challenge myself to stay focused and organized so I don’t fall behind when things get busy. In the end, I want to prepare myself for things outside of school. 
 
 
-[This is my playlist]()
+[This is my playlist](https://open.spotify.com/playlist/3sqQRyI1ovAH1dJ0FqozIC)
 
-![This is my mood board/collage]((image.png))
+![This is my mood board/collage](image.png)
