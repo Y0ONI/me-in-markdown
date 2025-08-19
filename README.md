@@ -8,4 +8,4 @@ During this school year, I want to accel in my classes and make sure to attend a
 
 [This is my playlist]()
 
-![This is my mood board/collage](image.png)
+![This is my mood board/collage]((image.png))
